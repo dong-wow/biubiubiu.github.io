@@ -39,20 +39,20 @@
 
 ###代码是啥
 
-'create database hero'
+`create database hero`
 
 ###多行代码
 
-'''
+```
 function fun(){
   echo "不知道是哪种语言的代码"
 }
 fun();
-'''
+```
 
 ##好高级的流程图
 
-'''flow
+```flow
 st=>start: 开始
 op=>operation: My Operation
 cond=>condition: Yes or No ?
@@ -60,4 +60,4 @@ e=>end
 st->op->cond
 cond(Yes)->end
 cond(No)->op
-'''
+```
