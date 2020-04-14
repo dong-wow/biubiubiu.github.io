@@ -36,16 +36,22 @@
 姓名|技能|排行
 --|:--:|--:
 默认左侧|居中|右侧
+
 ###代码是啥
+
 'create database hero'
+
 ###多行代码
+
 '''
 function fun(){
   echo "不知道是哪种语言的代码"
 }
 fun();
 '''
+
 ##好高级的流程图
+
 '''flow
 st=>start: 开始
 op=>operation: My Operation
